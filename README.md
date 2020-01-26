@@ -25,4 +25,6 @@ I²C, UART and Bluetooth
 
 ### Core: Mini Wemos, ESP8266
 
-![Texto alternativo](/home/fede/Imágenes/PLC_Arduino.png)
+<p align="center">
+ <img src="http://fdlogic.com/wp-content/uploads/2020/01/PLC_Arduino.png">
+</p>
