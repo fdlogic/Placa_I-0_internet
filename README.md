@@ -25,4 +25,4 @@ I²C, UART and Bluetooth
 
 ### Core: Mini Wemos, ESP8266
 
-![Texto alternativo](/home/fede/Imágenes/JLCPCB_logo.png)
+![Texto alternativo](/home/fede/Imágenes/PLC_Arduino.png)
