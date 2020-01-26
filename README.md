@@ -24,3 +24,5 @@ I²C, UART and Bluetooth
 ### Ambient temperature: Operating: 0° to 55°C
 
 ### Core: Mini Wemos, ESP8266
+
+![Texto alternativo](/home/fede/Imágenes/PLC_Arduino.png)
