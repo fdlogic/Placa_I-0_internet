@@ -6,13 +6,13 @@ This board can handle loads of up to 10A in AC through Internet access. Your spe
 
 ### Model: FG_Relay_Board
 
-### Supply voltage	: 5V
+### Supply voltage	: 5V 500mA  DC
 
 ### I/O interface:
 
 ### Outputs:
 1) Four outputs at 250V 10A Relay (AC)
-2) Two Open Collector outputs up to 500mA (DC)
+2) Two Open Collector outputs up to 500mA. 12V (DC)
 
 ### Inputs:
 1) One TTL input
