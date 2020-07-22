@@ -1,4 +1,4 @@
-# I / O board with internet access
+# Relay board with internet access
 
 This board can handle loads of up to 10A in AC through Internet access. Your specifications are given below.
 
